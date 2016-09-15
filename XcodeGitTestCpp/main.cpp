@@ -2,7 +2,7 @@
 //  main.cpp
 //  XcodeGitTestCpp
 //
-//  Created by Paul Chui on 9/15/16.
+//  Created by pchui on 9/15/16.
 //  Copyright © 2016 Company. All rights reserved.
 //
 
